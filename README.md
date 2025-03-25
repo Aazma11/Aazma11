@@ -19,6 +19,7 @@
   <li> Watching Anime </li>
   <li> Playing Games</li>
   <li> Playing Chess</li>
+  <li> Drawing </li>
    
     
   </ul>
