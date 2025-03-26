@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aazma11&label=Profile%20views&color=0e75b6&style=flat" alt="aazma11" /> </p>
 
-<h1 align="center">Hiii <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp</h1> 
-<h1 align ="center">I'm  Mahammad A@zma <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="40" /></h1>
-<p align="center">
+<h1>- Iam Mahammad Aazma <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45"></h1> 
+
+<p align="left">
   <a href="mailto:azma9812@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aazma-mahammad-b72a56289/" target="_blank"><img alt="LinkedIn" height ="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
