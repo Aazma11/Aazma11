@@ -12,7 +12,7 @@
    
 
 
-<h2 > About Me</h2>
+<h2 >🐰 About Me</h2>
 <div style="text-align: center;">
   <h2> Learning</h2>
   <ul style="list-style-type: disc;">
@@ -22,9 +22,8 @@
   <div style="text-align: center;">  
   <h2  style="text-align= right">Hobbies</h2>
   <li> Watching Anime </li>
-  <li> Playing Games</li>
   <li> Playing Chess</li>
-  <li> Drawing </li>
+  
    
     
   </ul>
