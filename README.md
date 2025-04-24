@@ -1,13 +1,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aazma11&label=Profile%20views&color=0e75b6&style=flat" alt="aazma11" /> </p>
 
-<h1>- Iam Mahammad Aazma <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45"></h1> 
 
-<p align="left">
-  <a href="mailto:azma9812@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aazma-mahammad-b72a56289/" target="_blank"><img alt="LinkedIn" height ="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+ <a href="#">
+       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
+   </a>
+    
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mahammad+Aazma;I'm+from+Hyderabad;I'm+a+Full+Stack+Developer;+ツ)
 
-<h2>🔭 About Me</h2>
+
+ 
+   
+
+
+<h2 > About Me</h2>
 <div style="text-align: center;">
   <h2> Learning</h2>
   <ul style="list-style-type: disc;">
@@ -79,7 +84,12 @@
 
 ## 📊 GitHub Stats
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aazma11&show_icons=true&locale=en&layout=compact" alt="aazma11" /></p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=aazma11&show_icons=true&theme=radical" alt="aazma11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aazma11&show_icons=true&locale=en" alt="aazma11" /></p>
 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aazma11&theme=radical" alt="aazma11" /></p>
+ <a href="#">
+       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
+   </a> 
+
+
